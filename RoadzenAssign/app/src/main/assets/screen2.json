@@ -1,0 +1,35 @@
+[
+  {
+    "header": "Requester",
+    "questions": [
+      {
+        "hint": "Requester",
+        "type": "image",
+        "comment" : "onclicking this place holder, camera shoudld capture a photo which should be displayed on this view holder"
+      },
+      {
+        "hint": "Req. Name",
+        "type": "text",
+        "comment" : "Input type is text"
+      },
+      {
+        "hint": "Req. Phone",
+        "type": "textNumeric",
+        "comment" : "Input type is text/numeric"
+      },
+      {
+        "hint": "Req. Email",
+        "type": "text",
+        "validation": {
+          "check": "email"
+        },
+        "comment" : "Apply regex rule for email"
+      },
+      {
+        "hint": "Req. Code",
+        "type": "text",
+        "comment" : "Input type is text"
+      }
+    ]
+  }
+  ]

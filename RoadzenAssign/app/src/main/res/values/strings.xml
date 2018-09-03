@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Roadzen</string>
+    <string name="screen_1">Screen 1</string>
+    <string name="screen_2">Screen 2</string>
+    <string name="title_activity_location">Location</string>
+    <string name="customer_address">Customer Address</string>
+    <string name="customer_zipcode">Customer ZipCode</string>
+    <string name="track_location">Track Location</string>
+    <string name="camera_permission_denied">Camera permission denied</string>
+    <string name="location_permission_denied">Location permission denied</string>
+    <string name="upload_image">Please upload image</string>
+    <string name="enter_correct">Please enter correct %1$s</string>
+</resources>

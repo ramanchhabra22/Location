@@ -1,0 +1,33 @@
+[
+  {
+    "header": "Insurance Company Details",
+    "questions": [
+      {
+        "hint": "Customer Name",
+        "type": "text",
+        "comment": "Input type is text"
+      },
+      {
+        "hint": "Customer Phone",
+        "type": "textNumeric",
+        "validation": {
+          "size": 10
+        },
+        "comment": "Input type is text/Numeric and apply the validation when the user leaves the field"
+      },
+      {
+        "hint": "Customer Address",
+        "type": "text",
+        "comment": "Input type is text"
+      },
+      {
+        "hint": "ZipCode",
+        "type": "textNumeric",
+        "validation": {
+          "size": 6
+        },
+        "comment": "Input type is text and apply the validation when the user leaves the field"
+      }
+    ]
+  }
+]
